@@ -10,6 +10,7 @@ A comprehensive Java-based web application for managing product details using se
 - [Technologies Used](#technologies-used)
 - [System Requirements](#system-requirements)
 - [Database Setup](#database-setup)
+- [Screenshots](#screenshots)
 - [How to Run](#how-to-run)
 - [Code Walkthrough](#code-walkthrough)
   - [AddProductServlet.java](#addproductservletjava)
