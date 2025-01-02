@@ -88,14 +88,20 @@ Follow the steps below to set up the database:
 
 ## Screenshots
 
-### Home Page
-![Home Page Screenshot](/)
+### Home Page:
+<p align="center">
+    <img height="50%" width="50%" src="https://github.com/priyapritam/Product-Management-System/blob/master/Index%20Page.png" alt="Home Page" style="max-width: 100%; height: auto;">
+</p>
 
-### Add Product Page
-![Add Product Page Screenshot](/path/to/addproduct_screenshot.jpg)
+### Add Product Page:
+<p align="center">
+    <img height="70%" width="70%" src="https://github.com/priyapritam/Product-Management-System/blob/master/Add%20Product%20Page.png" alt="Home Page" style="max-width: 100%; height: auto;">
+</p>
 
-### Product List Page
-![Product List Page Screenshot](/path/to/productlist_screenshot.jpg)
+### Product List Page:
+<p align="center">
+    <img height="70%" width="70%" src="https://github.com/priyapritam/Product-Management-System/blob/master/Display%20Product%20Page.png" alt="Home Page" style="max-width: 100%; height: auto;">
+</p>
 
 
 ## How to Run
