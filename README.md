@@ -2,7 +2,7 @@
 
 A comprehensive Java-based web application for managing product details using servlets, JSP, and MySQL. This project demonstrates CRUD operations, JDBC integration, and a dynamic user interface for adding and displaying product details.
 
----
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,7 +18,7 @@ A comprehensive Java-based web application for managing product details using se
 - [Future Enhancements](#future-enhancements)
 - [Author](#author)
 
----
+
 
 ## Introduction
 The Product Management System is designed to simplify the management of products in a structured manner. It enables users to:
@@ -27,7 +27,7 @@ The Product Management System is designed to simplify the management of products
 
 This project is suitable for educational purposes and serves as a practical example of how Java web applications interact with databases.
 
----
+
 
 ## Features
 - **Add Product:** A form-based input system for adding products to the database.
@@ -36,7 +36,7 @@ This project is suitable for educational purposes and serves as a practical exam
 - **Separation of Concerns:** Efficient use of servlets and JSP for backend and frontend processing.
 - **Reusable Components:** Encapsulated code for database operations.
 
----
+
 
 ## Technologies Used
 ### Frontend
@@ -54,7 +54,7 @@ This project is suitable for educational purposes and serves as a practical exam
 ### Server
 - Apache Tomcat (Version 9.0 or higher recommended)
 
----
+
 
 ## System Requirements
 1. Java Development Kit (JDK): Version 8 or higher.
@@ -63,7 +63,7 @@ This project is suitable for educational purposes and serves as a practical exam
 4. Integrated Development Environment (IDE): Eclipse/IntelliJ IDEA.
 5. Web Browser: Any modern browser (Google Chrome, Firefox, Edge).
 
----
+
 
 ## Database Setup
 Follow the steps below to set up the database:
@@ -86,7 +86,17 @@ Follow the steps below to set up the database:
     DriverManager.getConnection("jdbc:mysql://localhost:3306/product_management_db", "root", "YourPassword");
     ```
 
----
+## Screenshots
+
+### Home Page
+![Home Page Screenshot](/)
+
+### Add Product Page
+![Add Product Page Screenshot](/path/to/addproduct_screenshot.jpg)
+
+### Product List Page
+![Product List Page Screenshot](/path/to/productlist_screenshot.jpg)
+
 
 ## How to Run
 1. **Clone the Repository:**
@@ -106,7 +116,6 @@ Follow the steps below to set up the database:
      http://localhost:8080/ProductManagement
      ```
 
----
 
 ## Code Walkthrough
 
@@ -132,7 +141,7 @@ Follow the steps below to set up the database:
 2. **Display_Product.jsp:** Displays product information in a tabular format.
 3. **index.html:** Provides navigation links to add or display products.
 
----
+
 
 ## Future Enhancements
 
